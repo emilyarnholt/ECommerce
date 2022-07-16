@@ -48,7 +48,7 @@ category_id: {
     }
 }
 
-    // define columns
+    
 },
   {
     sequelize,
